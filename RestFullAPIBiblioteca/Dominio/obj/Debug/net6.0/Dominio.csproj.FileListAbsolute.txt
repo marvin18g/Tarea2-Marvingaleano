@@ -1,0 +1,24 @@
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Dominio\obj\Debug\net6.0\ref\Dominio.dll

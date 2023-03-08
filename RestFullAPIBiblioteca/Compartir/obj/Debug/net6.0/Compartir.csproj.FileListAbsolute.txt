@@ -1,0 +1,34 @@
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Compartir.deps.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Compartir.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Compartir.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Dominio.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.csproj.AssemblyReference.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.AssemblyInfoInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.AssemblyInfo.cs
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.csproj.CoreCompileInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.csproj.CopyComplete
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\refint\Compartir.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\ref\Compartir.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Compartir.deps.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Compartir.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Compartir.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Dominio.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.csproj.AssemblyReference.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.AssemblyInfoInputs.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.AssemblyInfo.cs
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.csproj.CoreCompileInputs.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.csproj.CopyComplete
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\refint\Compartir.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\Compartir.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\Compartir\obj\Debug\net6.0\ref\Compartir.dll

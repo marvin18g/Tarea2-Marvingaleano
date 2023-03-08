@@ -1,0 +1,214 @@
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.exe
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.deps.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.runtimeconfig.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Ardalis.Specification.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\MediatR.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Compartir.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Persistencia.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Compartir.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Dominio.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.csproj.AssemblyReference.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.AssemblyInfo.cs
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.ApiWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiWeb.props
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiWeb.props
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiWeb.props
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.csproj.CopyComplete
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\refint\ApiWeb.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.genruntimeconfig.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ref\ApiWeb.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.exe
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.deps.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.runtimeconfig.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\ApiWeb.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Ardalis.Specification.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\MediatR.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Compartir.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Dominio.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Persistencia.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Compartir.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.csproj.AssemblyReference.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.AssemblyInfoInputs.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.AssemblyInfo.cs
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.ApiWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiWeb.props
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiWeb.props
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiWeb.props
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\scopedcss\bundle\ApiWeb.styles.css
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.csproj.CopyComplete
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\refint\ApiWeb.dll
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.pdb
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ApiWeb.genruntimeconfig.cache
+C:\Users\Norma\Downloads\RestFullAPIBiblioteca (1)\RestFullAPIBiblioteca\ApiWeb\obj\Debug\net6.0\ref\ApiWeb.dll
